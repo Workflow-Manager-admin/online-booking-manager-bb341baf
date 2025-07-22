@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/online-booking-manager-bb341baf/frontend_container"
+}
